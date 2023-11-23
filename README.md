@@ -1,4 +1,4 @@
-### OSS 수업 관련 👋
+### OSS 수업 관련
 
 <!--
 **rlagustjdla/rlagustjdla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
