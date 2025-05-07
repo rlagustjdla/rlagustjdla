@@ -1,5 +1,5 @@
 ### OSS 수업 관련
-블리자드의 게임인 하스스톤과 관련된 오픈소스 프로젝트인 하스스톤 덱트레커에 기여하는 프로젝트를 만들고 싶다.
+
 <!--
 **rlagustjdla/rlagustjdla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
